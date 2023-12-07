@@ -1,0 +1,20 @@
+{
+  "name": "isomorphic-bun",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "client:dev": "npm -C client run dev",
+    "serve:dev": "npm -C server run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlearns/Isomorphic-bun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlearns/Isomorphic-bun/issues"
+  },
+  "homepage": "https://github.com/xlearns/Isomorphic-bun#readme"
+}
